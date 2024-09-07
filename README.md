@@ -47,7 +47,4 @@ For detailed explanations of each project’s objectives, methods, and results, 
 
 ## How to Run
 
-Navigate to the corresponding directory and run the MATLAB scripts:
-- **Project 1:** Run `task1.m` for the Bisection method, `task2.m` for the Golden Section method, and other corresponding scripts for each method.
-- **Project 2:** Run `Task2.m` to execute the derivative-based methods.
-- **Project 3:** Run `Project3.m` to execute the Projected Steepest Descent method.
+Navigate to the corresponding directory and run the MATLAB scripts.
