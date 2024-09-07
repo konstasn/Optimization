@@ -43,7 +43,6 @@ For detailed explanations of each project’s objectives, methods, and results, 
 ## Technologies Used
 
 - **Languages:** MATLAB  
-- **Tools:** MATLAB Optimization Toolbox  
 
 ## How to Run
 
